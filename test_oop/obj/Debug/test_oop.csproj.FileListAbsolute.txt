@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\test_oop\test_oop\bin\Debug\test_oop.exe.config
+C:\Users\ASUS\source\repos\test_oop\test_oop\bin\Debug\test_oop.exe
+C:\Users\ASUS\source\repos\test_oop\test_oop\bin\Debug\test_oop.pdb
+C:\Users\ASUS\source\repos\test_oop\test_oop\obj\Debug\test_oop.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\test_oop\test_oop\obj\Debug\test_oop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\test_oop\test_oop\obj\Debug\test_oop.exe
+C:\Users\ASUS\source\repos\test_oop\test_oop\obj\Debug\test_oop.pdb
